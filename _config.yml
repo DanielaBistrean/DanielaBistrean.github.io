@@ -49,7 +49,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: '/~dbistrean'
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Europe/Bucharest
 
 google_analytics:
   # Fill with your Google Analytics ID
@@ -169,7 +169,7 @@ sass:
 
 compress_html:
   clippings: all
-  comments: ["<!-- ", " -->"]
+  #comments: ["<!-- ", " -->"]
   endings: [html, head, body, dt, dd, rt, rp,
             optgroup, option, colgroup, caption,
             thead, tbody, tfoot, tr, td, th]
